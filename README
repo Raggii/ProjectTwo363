@@ -1,0 +1,7 @@
+To Start project
+
+- Open bash Terminal
+- Navigate to project location
+- write the command 'cmake .'
+- write the command 'make'
+- finally write the command './RayTracer.out'
